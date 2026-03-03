@@ -3,7 +3,7 @@
 A new Flutter project.
 # Android
 <img width="485" height="801" alt="image" src="https://github.com/user-attachments/assets/bcd10568-1a08-41ee-a55a-72f14a7b3949" />
-<img width="460" height="783" alt="image" src="https://github.com/user-attachments/assets/8549cee3-7004-4d0e-b028-ed329fadc8fd" />
+<img width="466" height="799" alt="image" src="https://github.com/user-attachments/assets/fe1b8bab-f259-4e32-8078-c5a80ce005c9" />
 <img width="487" height="797" alt="image" src="https://github.com/user-attachments/assets/4ca9ba4e-cfb1-4a37-b313-5b7202e5cddb" />
 # Web
 
