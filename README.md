@@ -414,6 +414,15 @@ En la pantalla inicial tu nombre y un apellido y grupo
 Crear los nombres de los archivos  (3 en total) archivos (Inicio.dart, pantalla2 y pantalla3)
 Según el diseno que se te asigno de acuerdo a tu numero de lista,aplicarlo a tu negocio debe apegarse al diseno que te toco.
 
+# Imagenes
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/9d79d4a6-c3b7-4a9f-8781-6ba670bc8942" />
+<img width="504" height="1000" alt="image" src="https://github.com/user-attachments/assets/15844d89-25f0-4cc8-8009-a269520dbb88" />
+<img width="349" height="411" alt="image" src="https://github.com/user-attachments/assets/4b02c664-b901-4f3e-bd76-761332f52b30" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b8d41793-f25c-4129-bab9-6b94beef6a59" />
+
+
+
 
 ## Getting Started
 
